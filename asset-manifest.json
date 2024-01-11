@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Indian-Meals-restaurant-website/static/css/main.d6cad4c8.css",
+    "main.js": "/Indian-Meals-restaurant-website/static/js/main.73bb4f57.js",
+    "static/media/indomeal.jpg": "/Indian-Meals-restaurant-website/static/media/indomeal.6b0c8c7e61dd8c59ee64.jpg",
+    "index.html": "/Indian-Meals-restaurant-website/index.html",
+    "main.d6cad4c8.css.map": "/Indian-Meals-restaurant-website/static/css/main.d6cad4c8.css.map",
+    "main.73bb4f57.js.map": "/Indian-Meals-restaurant-website/static/js/main.73bb4f57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6cad4c8.css",
+    "static/js/main.73bb4f57.js"
+  ]
+}
